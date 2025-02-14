@@ -25,7 +25,7 @@ This Flutter project demonstrates the use of interactive UI elements, specifical
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/flutter-folding-menu-demo.git
+   git clone https://github.com/subshegde/Folding-Menu-TweenAnimationBuilder-Radial-Gradient-Shader-Flutter.git
 
 # Install dependencies:
   flutter pub get
